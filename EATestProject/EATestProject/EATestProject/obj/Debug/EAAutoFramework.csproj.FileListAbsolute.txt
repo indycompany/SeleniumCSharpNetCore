@@ -1,0 +1,15 @@
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\EAAutoFramework.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\EAAutoFramework.pdb
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\Excel.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\ExcelDataReader.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\WebDriver.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\WebDriver.Support.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\ExcelDataReader.pdb
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\ExcelDataReader.xml
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\WebDriver.xml
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\bin\Debug\WebDriver.Support.xml
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\obj\Debug\EAAutoFramework.csproj.CoreCompileInputs.cache
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\obj\Debug\EAAutoFramework.csproj.CopyComplete
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\obj\Debug\EAAutoFramework.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EATestProject\obj\Debug\EAAutoFramework.pdb

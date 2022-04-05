@@ -1,0 +1,15 @@
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\EAEmployeeTest.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\EAEmployeeTest.pdb
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\EAAutoFramework.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\WebDriver.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\WebDriver.Support.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\Excel.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\EAAutoFramework.pdb
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\WebDriver.xml
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\bin\Debug\WebDriver.Support.xml
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\obj\Debug\EAEmployeeTest.csproj.AssemblyReference.cache
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\obj\Debug\EAEmployeeTest.csproj.CoreCompileInputs.cache
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\obj\Debug\EAEmployeeTest.csproj.CopyComplete
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\obj\Debug\EAEmployeeTest.dll
+C:\JA\C#\NetCore\EATestProject\EATestProject\EAEmployeeTest\obj\Debug\EAEmployeeTest.pdb
